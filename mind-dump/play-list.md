@@ -1,7 +1,6 @@
 - [ ] G - The Sinking City
 - [ ] Cold Blood
 - [ ] The Wedding Guest
-- [ ] Naruto Shippuuden
 - [ ] Lying and Stealing
 - [ ] Point Blank
 - [ ] https://www.youtube.com/playlist?list=PLZnxqowr6IKgs4FZXmA-eEbRiJlPYGROP - Celebrate Earth Day with YouTube
@@ -20,6 +19,7 @@
 - [ ] The Operative
 - [ ] The Surge 2
 - [ ] CODE VEIN
+- [ ] Naruto Shippuuden
 - [ ] Ghostbusters The Video Game Remastered
 - [ ] Trine 4
 - [ ] Disco Elysium

@@ -1,5 +1,4 @@
 - [ ] G - The Sinking City
-- [ ] Cold Blood
 - [ ] The Wedding Guest
 - [ ] Lying and Stealing
 - [ ] Point Blank

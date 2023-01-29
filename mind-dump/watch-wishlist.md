@@ -1,0 +1,55 @@
+- [ ] Boruto
+- [ ] Game of Thrones - s7
+- [ ] One punch man - s2
+- [ ] archer - s9
+- [ ] kobra kai - s2
+- [ ] stranger things
+- [ ] sword art online - s2
+- [ ] mr robot - s2
+- [ ] big bang theory - s6
+- [ ] kimetsu no yaiba - s1e22
+- [ ] young justice - s3
+- [ ] [titans](https://www.imdb.com/title/tt1043813/)
+- [ ] mandalorian
+- [ ] promised neverland - s1
+- [ ] mob psycho - s2
+- [ ] boku no hero academia - s4e12
+- [ ] the witcher series
+- [ ] the office
+- [ ] the expanse
+- [ ] kitchen nightmares
+- [ ] better off ted
+- [ ] hannibal
+- [ ] Netflix he man
+- [ ] What if
+- [ ] marvel universe shows
+- [ ] The Walking Dead tv series
+- [ ] Shrek all movies
+- [ ] Monsters inc all movies
+- [ ] dc universe shows and movies
+- [ ] Extraction movie
+- [ ] Squid games
+- [ ] Money heist
+- [ ] Halo web series
+- [ ] The Blacklist
+- [ ] disney star wars series
+- [ ] fargo series
+- [ ] shark tank india
+- [ ] The Family Man
+- [ ] attack on titan - season 4 (final season) part 2 completed
+- [ ] Fate anime series
+- [ ] Westworld
+- [ ] House of the Dragon
+- [ ] one piece 1033 onwards
+- [ ] The lord of the rings - rings of power
+- [ ] suits
+- [ ] naked attraction
+- [ ] astro boy
+- [ ] Trigun
+- [ ] JoJo's Bizarre Adventure
+- [ ] Invincible Season 2 onwards
+- [ ] india lockdown
+- [ ] Resident Evil - https://www.imdb.com/title/tt9660182/
+- [ ] The last of us series - https://www.imdb.com/title/tt3581920/
+- [ ] Star Wars: The Bad Batch - https://www.imdb.com/title/tt12708542/
+- [ ]

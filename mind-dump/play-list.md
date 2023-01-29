@@ -1,3 +1,5 @@
+# Currently Consuming
+
 - [ ] G - The Sinking City
 - [ ] The Wedding Guest
 - [ ] Lying and Stealing
@@ -18,6 +20,9 @@
 - [ ] The Operative
 - [ ] The Surge 2
 - [ ] CODE VEIN
+
+# Queued List
+
 - [ ] Naruto Shippuuden
 - [ ] Ghostbusters The Video Game Remastered
 - [ ] Trine 4
@@ -70,3 +75,19 @@
 - [ ] Fantastic.Four.2015.1080p.BRRip.x264.AAC-ETRG
 - [ ] G.I. Joe: Retaliation
 - [ ] Love Actually
+- [ ] Brightburn
+- [ ] The Hustle
+- [ ] Aladdin 2019
+- [ ] The Secret Life of Pets 2
+- [ ] Driven 2019
+- [ ] Sextuplets 2019
+- [ ] The Flood 2019
+- [ ] Hot Air 2019
+- [ ] Tone Deaf 2019
+- [ ] Astro Kid 2019
+- [ ] Dave Chappelle Sticks and Stones 2019
+- [ ] The Dead Dont Die 2019
+- [ ] Dark Phoenix 2019
+- [ ] Spider in the Web 2019
+- [ ] Late Night 2019
+- [ ]

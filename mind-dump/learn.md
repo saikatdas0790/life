@@ -2,7 +2,7 @@
 
 - [ ] MAY 02#07 - You have one hell of a Linux system here
 - [ ] Dec. 12 Yehuda Katz and Steve Klabnik are joining the Rust Core Team
-- [ ] https://medium.com/dfinity/latest - Recap: The Internet Computer’s Mercury Genesis Launch Event
+- [ ] https://medium.com/dfinity/latest - Web Authentication and Identity on the Internet Computer
 - [ ] https://www.youtube.com/c/LetsGetRusty/videos - A new way of error handling in Rust onwards
 - [ ] https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/ - Lecture 7: Testing, Debugging, Exceptions, and Assertions onwards and Problem Set 4 onwards
 

@@ -1,7 +1,7 @@
 # Current
 
-- [ ] APR 03#05 - Tonight We Ride
-- [ ] Nov. 20 Cargo: Rust's community crate host
+- [ ] APR 14#06 - I never wished a man dead
+- [ ] Dec. 12 Rust 1.0: Scheduling the trains
 - [ ] https://medium.com/dfinity/latest - Announcing the Agenda for the Mercury Genesis Launch Event
 - [ ] https://www.youtube.com/c/LetsGetRusty/videos - A new way of error handling in Rust onwards
 - [ ] https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/ - Lecture 7: Testing, Debugging, Exceptions, and Assertions onwards and Problem Set 4 onwards

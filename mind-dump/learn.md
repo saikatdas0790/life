@@ -1,3 +1,13 @@
+# Current
+
+- [ ] NixOS weekly 4 onwards
+- [ ] Oct. 30 Stability as a Deliverable onwards
+- [ ] https://medium.com/dfinity/latest - DFINITY 2021: The Rise of the Internet Computer onwards
+- [ ] https://www.youtube.com/c/LetsGetRusty/videos - A new way of error handling in Rust onwards
+- [ ] https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/ - Lecture 7: Testing, Debugging, Exceptions, and Assertions onwards and Problem Set 4 onwards
+
+# Upcoming
+
 - [ ] Nix Pills
 - [ ] https://github.com/AbdesamedBendjeddou/Rusty-CS + https://github.com/ossu/computer-science
 - [ ] Dfinity rust examples - https://github.com/dfinity/examples/tree/master/rust

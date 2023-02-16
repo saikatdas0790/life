@@ -1,8 +1,8 @@
 # Current
 
-- [ ] MAY 02#07 - You have one hell of a Linux system here
-- [ ] Dec. 12 Yehuda Katz and Steve Klabnik are joining the Rust Core Team
-- [ ] https://medium.com/dfinity/latest - Web Authentication and Identity on the Internet Computer
+- [ ] AUG 22#07 - NixOS in production, nix-devel is now Discourse
+- [ ] May 11 Abstraction without overhead: traits in Rust
+- [ ] https://medium.com/dfinity/latest - The DFINITY Canister Smart Contract SDK Is Now Open Source
 - [ ] https://www.youtube.com/c/LetsGetRusty/videos - A new way of error handling in Rust onwards
 - [ ] https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/ - Lecture 7: Testing, Debugging, Exceptions, and Assertions onwards and Problem Set 4 onwards
 
@@ -114,4 +114,5 @@
 - [ ] https://dhghomon.github.io/easy_rust/Chapter_0.html
 - [ ] https://ryantm.github.io/nixpkgs/
 - [ ] https://www.youtube.com/playlist?list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx
+- [ ] https://www.youtube.com/@jonhoo/videos
 - [ ]

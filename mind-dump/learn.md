@@ -1,8 +1,8 @@
 # Current
 
-- [ ] AUG 22#07 - NixOS in production, nix-devel is now Discourse
-- [ ] May 11 Abstraction without overhead: traits in Rust
-- [ ] https://medium.com/dfinity/latest - The DFINITY Canister Smart Contract SDK Is Now Open Source
+- [ ] SEP 26#09 - NixCon 2018 program, macOS 10.14 Mojave support, Haskell and Python packaging tips
+- [ ] June 25 Rust 1.1 stable, the Community Subteam, and RustCamp
+- [ ] https://medium.com/dfinity/latest - Resumption: How Internet Computer Nodes Quickly Catch Up to the Blockchain’s Latest State
 - [ ] https://www.youtube.com/c/LetsGetRusty/videos - A new way of error handling in Rust onwards
 - [ ] https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/ - Lecture 7: Testing, Debugging, Exceptions, and Assertions onwards and Problem Set 4 onwards
 
@@ -115,4 +115,5 @@
 - [ ] https://ryantm.github.io/nixpkgs/
 - [ ] https://www.youtube.com/playlist?list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx
 - [ ] https://www.youtube.com/@jonhoo/videos
+- [ ] https://huonw.github.io/blog/2015/05/finding-closure-in-rust/
 - [ ]

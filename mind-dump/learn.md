@@ -1,8 +1,8 @@
 # Current
 
-- [ ] SEP 26#09 - NixCon 2018 program, macOS 10.14 Mojave support, Haskell and Python packaging tips
-- [ ] June 25 Rust 1.1 stable, the Community Subteam, and RustCamp
-- [ ] https://medium.com/dfinity/latest - Resumption: How Internet Computer Nodes Quickly Catch Up to the Blockchain’s Latest State
+- [ ] FEB 20#03 - Kubenix, kernel regressions and jobs
+- [ ] Apr. 14 Announcing Rust 1.8
+- [ ] https://medium.com/dfinity/latest - DFINITY Developer Grant Program Awards Grants to Over 150 Internet Computer Projects
 - [ ] https://www.youtube.com/c/LetsGetRusty/videos - A new way of error handling in Rust onwards
 - [ ] https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/ - Lecture 7: Testing, Debugging, Exceptions, and Assertions onwards and Problem Set 4 onwards
 
@@ -30,7 +30,6 @@
 - [ ] https://scrimba.com/learn/cssgrid
 - [ ] https://scrimba.com/learn/unittest
 - [ ] Form validation https://vestjs.dev/#/
-- [ ] https://github.com/dfinity/motoko/blob/master/design/WhitePaper.md
 - [ ] https://www.crypto101.io/
 - [ ] Computerphile Youtube channel - https://www.youtube.com/user/Computerphile/videos
 - [ ] Numberphile Youtube channel - https://www.youtube.com/c/numberphile/videos
@@ -39,7 +38,6 @@
 - [ ] https://www.edx.org/course/introduction-to-kubernetes
 - [ ] https://brilliant.org/courses/
 - [ ] https://github.com/trailofbits/publications/blob/master/reviews/DFINITY.pdf
-- [ ] https://dfinity.org/whitepaper.pdf
 - [ ] https://dfinity.org/pdf-viewer/pdfs/viewer?file=../library/dfinity-consensus.pdf
 - [ ] Tone.js - https://tonejs.github.io/ - explore what is possible
 - [ ] https://learningsynths.ableton.com/
@@ -116,4 +114,6 @@
 - [ ] https://www.youtube.com/playlist?list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx
 - [ ] https://www.youtube.com/@jonhoo/videos
 - [ ] https://huonw.github.io/blog/2015/05/finding-closure-in-rust/
-- [ ]
+- [ ] https://www.youtube.com/channel/UCjqkNrQ8F3OhKSCfCgagWLg/videos
+- [ ] https://internetcomputer.org/whitepaper.pdf
+- [ ] https://edolstra.github.io/pubs/nixos-jfp-final.pdf

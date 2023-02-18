@@ -1,8 +1,8 @@
 # Current
 
-- [ ] FEB 20#03 - Kubenix, kernel regressions and jobs
-- [ ] Apr. 14 Announcing Rust 1.8
-- [ ] https://medium.com/dfinity/latest - DFINITY Developer Grant Program Awards Grants to Over 150 Internet Computer Projects
+- [ ] APR 03#06 - Lorri, tree parser and formatter, patchelf 0.10, NixML
+- [ ] May 9 Launching the 2016 State of Rust Survey
+- [ ] https://medium.com/dfinity/latest - Internet Computer Basics — Part 1: Principals and Identities
 - [ ] https://www.youtube.com/c/LetsGetRusty/videos - A new way of error handling in Rust onwards
 - [ ] https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/ - Lecture 7: Testing, Debugging, Exceptions, and Assertions onwards and Problem Set 4 onwards
 
@@ -117,3 +117,5 @@
 - [ ] https://www.youtube.com/channel/UCjqkNrQ8F3OhKSCfCgagWLg/videos
 - [ ] https://internetcomputer.org/whitepaper.pdf
 - [ ] https://edolstra.github.io/pubs/nixos-jfp-final.pdf
+- [ ] Algorithms and Data Structures for Massive Datasets - https://drive.google.com/drive/folders/10F9IME5NlHSb8WuSzutKHVpOqP5bCz2m
+- [ ]

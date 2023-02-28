@@ -2377,3 +2377,65 @@
     Games/PC-ISO	Sword and Fairy 7 v2 0 1-TENOKE New1.0 days ago by TvTeam			0	30.8 GB	36	18	0
     Games/PC-ISO	Bright Memory Infinite Perspective-assist Mode-TENOKE New7.8 hours ago by TvTeam			0	10.7 GB	44	24	0
     Games/PC-ISO	Pitch Silent-TENOKE New7.6 hours ago by TvTeam			0	10.1 GB	22	16	1
+    Games/PC-ISO	Steel Division 2 Blood Feud in Transylvania-FLT New1.3 months ago by TvTeam			0	59.8 GB	260	94	14	0
+    Movie/Non-English	JUNG E 2023 1080p WEB H264-CUPCAKES New5.4 2023 Action Adventure Drama 1080p | 1.3 months ago by TvTeam			31	3.91 GB	12	2116	390	0
+    Games/PC-ISO	Maiz-TENOKE New1.2 months ago by TvTeam			0	8.06 GB	89	38	5	0
+    Games/PC-ISO	The Secret Ops-TENOKE New1.2 months ago by TvTeam			0	11.4 GB	84	37	5	0
+    Movie/HD/Bluray	Narvik Hitlers First Defeat 2022 MULTI 1080p WEB H264-LOST New6.6 2023 Drama History War 1080p | 1.2 months ago by TvTeam			14	3.73 GB	29	2637	499	1
+    Movie/HD/Bluray	M3GAN 2022 1080p WEB H264-NAISU New6.4 2023 Horror Sci-Fi Thriller 1080p | 1.2 months ago by TvTeam			32	5.73 GB	13	16885	3462	0
+    Movie/Web-DL	M3GAN 2023 2160p MA WEB-DL DDP5 1 Atmos HDR DV HEVC-CMRG New FreeLeech6.4 2023 Horror Sci-Fi Thriller 2160p | 1.1 months ago by drilym			19	17.8 GB	1	4985	1044	2
+    Games/PC-ISO	Neptunia Sisters VS Sisters Deluxe Edition-TENOKE New1.1 months ago by TvTeam			0	11.9 GB	67	45	11	0
+    Games/PC-ISO	World War Z Aftermath Horde Mode XL-TENOKE New1.1 months ago by TvTeam			3	40.9 GB	179	148	27	0
+    Games/PC-ISO	MechWarrior 5 Mercenaries Rise of Rasalhague-TENOKE New1.1 months ago by TvTeam			1	24.3 GB	107	294	71	0
+    Games/PC-ISO	Lust Theory Season 1 v2 5-I KnoW New1.0 months ago by TvTeam			1	15.5 GB	86	552	94	0
+    Games/PC-ISO	Arrogation Unlight of Day-TENOKE New1.0 months ago by TvTeam			1	9.65 GB	72	32	7	0
+    Games/PC-ISO	Stranger of Paradise Final Fantasy Origin Different Future-Razor1911 New4.2 weeks ago by TvTeam			6	85 GB	368	206	49	0
+    Movie/x265	Black Panther Wakanda Forever 2022 1080p BluRay EAC3 5 1 x265-PoF New6.8 2022 Action Adventure Drama 1080p | 4.1 weeks ago by BASiQ			20	2.42 GB	1	15652	3654	2
+    Movie/HD/Bluray	Babylon 2022 1080p WEB H264-NAISU New7.3 2022 Comedy Drama History 1080p | 4.1 weeks ago by TvTeam			11	12.7 GB	24	8833	2293	4
+    Games/PC-ISO	Automobilista 2 Brazilian Racing Legends Part 1-FLT New4.0 weeks ago by TvTeam			1	67.3 GB	292	82	16	0
+    Games/PC-ISO	Earths Shadow-TENOKE New3.9 weeks ago by TvTeam			0	25.2 GB	111	62	16	0
+    Games/PC-ISO	Dying Light 2 Stay Human-TENOKE New3.9 weeks ago by TvTeam			10	38.8 GB	169	536	129	0
+    Games/PC-ISO	Saints Row IV Re-Elected v20221219-DINOByTES New3.8 weeks ago by TvTeam			1	12.4 GB	91	87	24	0
+    Movie/HD/Bluray	Plane 2023 1080p WEB H264-NAISU New6.5 2023 Action Adventure Thriller 1080p | 3.6 weeks ago by TvTeam			27	5.32 GB	13	12532	3144	4
+    Games/PC-ISO	A Bavarian Tale Totgeschwiegen-TENOKE New3.6 weeks ago by TvTeam			0	16.4 GB	73	62	16	0
+    Games/PC-ISO	Monster Hunter Rise Sunbreak -EMPRESS New FreeLeech3.4 weeks ago by marco			15	32.3 GB	9	394	105	1
+    Games/PC-ISO	Spider Queen cave-TENOKE New3.2 weeks ago by TvTeam			0	12.4 GB	56	43	8	0
+    Games/PC-ISO	Shadow Warrior 3 v1 05b-DINOByTES New3.1 weeks ago by TvTeam			2	22.4 GB	99	87	28	0
+    Games/PC-ISO	High On Life v1 11 4763 0-Razor1911 New3.1 weeks ago by TvTeam			6	46.2 GB	201	261	68	1
+    Movie/HD/Bluray	Whitney Houston I Wanna Dance with Somebody 2022 1080p WEB H264-NAISU New6.7 2022 Biography Drama Music 1080p | 3.1 weeks ago by TvTeam			5	10 GB	19	3209	918	1
+    Movie/Web-DL	Empire Of Light 2022 1080p WEB-DL DDP5 1 Atmos x264-AOC New6.6 2022 Drama Romance 1080p | 3.0 weeks ago			0	5.92 GB	8	1921	536	16
+    Games/PC-ISO	HITMAN 3 v3 140-Razor1911 New3.0 weeks ago by TvTeam			4	61.7 GB	268	261	77	0
+    Games/PC-ISO	HOT WHEELS UNLEASHED Game of the Year Edition-Razor1911 New3.0 weeks ago by TvTeam			1	27.3 GB	120	198	60	0
+    Games/PC-ISO	Redout 2 Winter Pack-FLT New2.7 weeks ago by TvTeam			3	30.5 GB	134	103	32	1
+    Games/PC-ISO	Gogte-TENOKE New2.7 weeks ago by TvTeam			0	10.4 GB	77	35	7	1
+    Movie/Web-DL	Somebody I Used To Know 2023 1080p WEB-DL DDP5 1 x264-AOC New5.7 2023 Comedy Romance 1080p | 2.6 weeks ago			1	6.74 GB	9	817	300	5
+    Movie/Web-DL	Your Place Or Mine 2023 1080p WEB-DL DDP5 1 Atmos x264-AOC New5.6 2023 Comedy Romance 1080p | 2.6 weeks ago			1	4.43 GB	8	1063	402	8
+    Movie/Web-DL	The Son 2022 1080p WEB-DL DDP5 1 x264-AOC New6.1 2023 Drama 1080p | 2.4 weeks ago			0	6.08 GB	6	1556	543	8
+    Movie/Web-DL	The Deal 2022 WEB-DL 1080p DUAL x264-HDM New4.6 2022 Drama Sci-Fi 1080p | 2.3 weeks ago			2	3.7 GB	1	1944	626	0
+    Movie/HD/Bluray	Infinity Pool 2023 1080p WEB H264-NAISU New6.1 2023 Crime Horror Mystery 1080p | 2.1 weeks ago by TvTeam			13	7.9 GB	16	4084	1378	5
+    Games/PC-ISO	Sword and Fairy 7 Dreamlike World-TENOKE New2.1 weeks ago by TvTeam			0	42.5 GB	185	55	27	0
+    Games/PC-ISO	Wanted Dead-FLT New2.0 weeks ago by TvTeam			1	32.5 GB	142	401	123	0
+    Games/PC-ISO	Kingdom Come Deliverance A Womans Lot Update v1 9 6 404 504czj3-I KnoW New2.0 weeks ago by TvTeam			0	16.4 GB	91	45	19	0
+    Movie/HD/Bluray	Maybe I Do 2023 PROPER 1080p WEB H264-NAISU New4.9 2023 Comedy Romance 1080p | 2.0 weeks ago by TvTeam			0	5.82 GB	12	1781	645	2
+    Games/PC-ISO	Ten Dates-TENOKE New1.9 weeks ago by TvTeam			0	20.2 GB	89	52	21	0
+    Games/PC-ISO	The City Superhero Flying Experience-TENOKE New1.9 weeks ago by TvTeam			1	17.7 GB	79	45	13	0
+    Games/PC-ISO	Labyrinth of Galleria The Moon Society-TENOKE New1.9 weeks ago by TvTeam			0	12.4 GB	69	79	22	0
+    Games/PC-ISO	Returnal-FLT New8.2 2021 Action Adventure Horror | 1.8 weeks ago by TvTeam			82	52.8 GB	229	3573	1141	5
+    Games/PC-ISO	The Moon Hell-TENOKE New1.6 weeks ago by TvTeam			0	18.9 GB	84	46	14	0
+    Games/PC-ISO	EVIL BELOW-TENOKE New1.6 weeks ago by TvTeam			0	9.47 GB	43	48	16	0
+    Games/PC-ISO	Shadow Warrior 3 Update v1 06 DE-DINOByTES New1.5 weeks ago by TvTeam			0	8.8 GB	66	55	18	0
+    Games/PC-ISO	Arthas The Game-TENOKE New1.5 weeks ago by TvTeam			0	12.4 GB	56	34	13	0
+    Games/PC-ISO	Bloody Spell v20230218-TENOKE New7.4 1955 Adventure Drama | 1.4 weeks ago by TvTeam			1	11.3 GB	51	62	30	0
+    Movie/HD/Bluray	The Whale 2022 1080p WEB H264-NAISU New7.8 2022 Drama 1080p | 1.1 weeks ago by TvTeam			35	9.02 GB	17	8260	3522	6
+    Movie/HD/Bluray	Knock at the Cabin 2023 1080p WEB H264-NAISU New6.4 2023 Horror Mystery Thriller 1080p | 1.1 weeks ago by TvTeam			29	5.19 GB	13	7832	3107	9
+    Games/PC-ISO	Lumberjacks Dynasty v1 07-Razor1911 New6.2 days ago by TvTeam			1	8.83 GB	66	72	29	0
+    TV/Web-DL	Poker Face 2023 S01E08 1080p WEB H264-GGEZ New8.1 2023 Crime Drama Mystery 1080p | 5.2 days ago by TvTeam			1	3.16 GB	12	2124	932	2
+    Games/PC-ISO	Hogwarts Legacy Deluxe Edition-EMPRESS New FreeLeech5.1 days ago			193	88.2 GB	10	9904	4174	272
+    Games/PC-ISO	Asterigos Call Of The Paragons-SKIDROW New4.7 days ago by TvTeam			0	9.67 GB	72	63	31	0
+    Movie/HD/Bluray	We Have a Ghost 2023 1080p WEBRip x264-LAMA New6.0 2023 Adventure Comedy Family 1080p | 4.3 days ago by Lama			4	2.43 GB	39	1710	789	16
+    Games/PC-ISO	Blood Bowl 3-SKIDROW New4.0 days ago by TvTeam			0	9.74 GB	72	128	63	0
+    Games/PC-ISO	Dark Skies The Nemansk Incident-TENOKE New3.6 days ago by TvTeam			2	11.5 GB	52	45	25	0
+    Games/PC-ISO	Atelier Sophie 2 The Alchemist of the Mysterious Dream v1 08-TENOKE New3.3 days ago by TvTeam			0	16.4 GB	73	46	21	0
+    Games/PC-ISO	Way of the Hunter Aurora Shores-Razor1911 New3.2 days ago by TvTeam			1	14 GB	78	57	31	0
+    Games/PC-ISO	DownhillMadness-TENOKE New12.9 hours ago by TvTeam			0	13.5 GB	75	39	22	0
+    Movie/Web-DL	A Man Called Otto 2022 1080p AMZN WEB-DL DDP5 1 Atmos H 264-CMRG New FreeLeech7.6 2023 Comedy Drama 1080p | 9.2 hours ago			5	8.96 GB	1	2741	1675	52

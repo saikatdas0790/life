@@ -118,4 +118,5 @@
 - [ ] https://internetcomputer.org/whitepaper.pdf
 - [ ] https://edolstra.github.io/pubs/nixos-jfp-final.pdf
 - [ ] Algorithms and Data Structures for Massive Datasets - https://drive.google.com/drive/folders/10F9IME5NlHSb8WuSzutKHVpOqP5bCz2m
+- [ ] https://github.com/seniorjoinu/ic-stable-memory/tree/master/docs
 - [ ]

@@ -1,10 +1,13 @@
 # Current
 
+- [ ] CS 253 Web Security - Web Security - Lecture 05 - Exceptions to the Same Origin Policy
+- [ ] https://medium.com/dfinity/latest - Internet Computer Updates: SNS Initial Token Swap, IC Bug Bounty, BTC/tECDSA
+- [ ] Dfinity forums - Why do we need no firewall, VPN, username and password on dfinity?
 - [ ] APR 03#06 - Lorri, tree parser and formatter, patchelf 0.10, NixML
 - [ ] May 9 Launching the 2016 State of Rust Survey
-- [ ] https://medium.com/dfinity/latest - How to Stake ICP Tokens and Earn Rewards Using the NNS Front-End Dapp
 - [ ] https://www.youtube.com/c/LetsGetRusty/videos - A new way of error handling in Rust onwards
 - [ ] https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/ - Lecture 7: Testing, Debugging, Exceptions, and Assertions onwards and Problem Set 4 onwards
+- [ ] 1381988_4970311755490_410302938_n
 
 # Upcoming
 

@@ -1,8 +1,8 @@
 # Current
 
-- [ ] CS 253 Web Security - Web Security - Lecture 05 - Exceptions to the Same Origin Policy
-- [ ] https://medium.com/dfinity/latest - Internet Computer Updates: SNS Initial Token Swap, IC Bug Bounty, BTC/tECDSA
-- [ ] Dfinity forums - Why do we need no firewall, VPN, username and password on dfinity?
+- [ ] CS 253 Web Security - Web Security - Lecture 14 - WebAuthn - The future of user authentication - Lucas Garron
+- [ ] https://medium.com/dfinity/latest - The Design and Evolution of the ICRC-1 Fungible Token Standard
+- [ ] Dfinity forums - ICP technical fantasy Apr '21
 - [ ] APR 03#06 - Lorri, tree parser and formatter, patchelf 0.10, NixML
 - [ ] May 9 Launching the 2016 State of Rust Survey
 - [ ] https://www.youtube.com/c/LetsGetRusty/videos - A new way of error handling in Rust onwards
@@ -122,4 +122,9 @@
 - [ ] https://edolstra.github.io/pubs/nixos-jfp-final.pdf
 - [ ] Algorithms and Data Structures for Massive Datasets - https://drive.google.com/drive/folders/10F9IME5NlHSb8WuSzutKHVpOqP5bCz2m
 - [ ] https://github.com/seniorjoinu/ic-stable-memory/tree/master/docs
+- [ ] https://eprint.iacr.org/2022/506
+- [ ] https://eprint.iacr.org/2021/1330
+- [ ] https://www.youtube.com/watch?v=uMXDLU08rco
+- [ ] https://research.nccgroup.com/2022/06/15/public-report-threshold-ecdsa-cryptography-review/
+- [ ] https://drive.google.com/file/d/13oJ2dABMI2kMdmB7DN6Fj9k5rocFYiRC/view
 - [ ]

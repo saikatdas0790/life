@@ -1,13 +1,13 @@
 # Current
 
-- [ ] CS 253 Web Security - Web Security - Lecture 14 - WebAuthn - The future of user authentication - Lucas Garron
-- [ ] https://medium.com/dfinity/latest - The Design and Evolution of the ICRC-1 Fungible Token Standard
-- [ ] Dfinity forums - Unable to determine content type Apr '21
+- [ ] https://medium.com/dfinity/latest - NNS Metrics: Tracking the Internet Computer’s Token Economics
+- [ ] Dfinity forums - How does identity system work on dfinity Apr '21
 - [ ] APR 03#06 - Lorri, tree parser and formatter, patchelf 0.10, NixML
 - [ ] May 9 Launching the 2016 State of Rust Survey
 - [ ] https://www.youtube.com/c/LetsGetRusty/videos - A new way of error handling in Rust onwards
 - [ ] https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/ - Lecture 7: Testing, Debugging, Exceptions, and Assertions onwards and Problem Set 4 onwards
 - [ ] 1381988_4970311755490_410302938_n
+- [ ] Outer worlds - 1d 14h
 
 # Upcoming
 

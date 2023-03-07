@@ -2,7 +2,7 @@
 
 - [ ] CS 253 Web Security - Web Security - Lecture 14 - WebAuthn - The future of user authentication - Lucas Garron
 - [ ] https://medium.com/dfinity/latest - The Design and Evolution of the ICRC-1 Fungible Token Standard
-- [ ] Dfinity forums - ICP technical fantasy Apr '21
+- [ ] Dfinity forums - Unable to determine content type Apr '21
 - [ ] APR 03#06 - Lorri, tree parser and formatter, patchelf 0.10, NixML
 - [ ] May 9 Launching the 2016 State of Rust Survey
 - [ ] https://www.youtube.com/c/LetsGetRusty/videos - A new way of error handling in Rust onwards

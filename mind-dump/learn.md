@@ -1,6 +1,6 @@
 # Current
 
-- [ ] https://medium.com/dfinity/latest - Internet Computer Footprint: Assessing IC Energy Consumption and Sustainability
+- [ ] https://medium.com/dfinity/latest - Internet Computer Updates: NNS Proposal Submission Dapp, Code & State, and Building With Rust
 - [ ] Dfinity forums - Parler on the IC? May '21
 - [ ] APR 03#06 - Lorri, tree parser and formatter, patchelf 0.10, NixML
 - [ ] May 9 Launching the 2016 State of Rust Survey

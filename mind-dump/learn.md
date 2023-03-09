@@ -1,13 +1,12 @@
 # Current
 
-- [ ] https://medium.com/dfinity/latest - NNS Metrics: Tracking the Internet Computer’s Token Economics
-- [ ] Dfinity forums - How does identity system work on dfinity Apr '21
+- [ ] https://medium.com/dfinity/latest - Internet Computer Footprint: Assessing IC Energy Consumption and Sustainability
+- [ ] Dfinity forums - Parler on the IC? May '21
 - [ ] APR 03#06 - Lorri, tree parser and formatter, patchelf 0.10, NixML
 - [ ] May 9 Launching the 2016 State of Rust Survey
 - [ ] https://www.youtube.com/c/LetsGetRusty/videos - A new way of error handling in Rust onwards
 - [ ] https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/ - Lecture 7: Testing, Debugging, Exceptions, and Assertions onwards and Problem Set 4 onwards
 - [ ] 1381988_4970311755490_410302938_n
-- [ ] Outer worlds - 1d 14h
 
 # Upcoming
 

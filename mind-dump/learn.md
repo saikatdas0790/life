@@ -6,7 +6,7 @@
 - [ ] May 9 Launching the 2016 State of Rust Survey
 - [ ] https://www.youtube.com/c/LetsGetRusty/videos - A new way of error handling in Rust onwards
 - [ ] https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/ - Lecture 7: Testing, Debugging, Exceptions, and Assertions onwards and Problem Set 4 onwards
-- [ ] 1381988_4970311755490_410302938_n
+- [ ] 12552737_10207198437612885_5148965321966909005_n
 
 # Upcoming
 
